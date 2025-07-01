@@ -11,6 +11,6 @@
   <project path="kernel/oppo/msm8939" name="kernel_oppo_msm8939" remote="Meghthedev" revision="0.0" />
 
 <!-- Vendor proprietary-->
-  <project path="vendor/oppo/A37" name="proprietary_vendor_oppo_A37" remote="github" revision="lineage-19.1" />
+  <project path="vendor/oppo/A37" name="proprietary_vendor_oppo_A37" remote="Meghthedev" revision="lineage-19.1" />
 
 </manifest>
